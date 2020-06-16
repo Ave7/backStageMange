@@ -1,0 +1,79 @@
+{
+  "id": "1874104",
+  "name": "mianshi",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15216603",
+      "name": "法律",
+      "font_class": "falv-copy",
+      "unicode": "fe64",
+      "unicode_decimal": 65124
+    },
+    {
+      "icon_id": "635864",
+      "name": "邮件",
+      "font_class": "mail",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "3187611",
+      "name": "通讯录",
+      "font_class": "txl",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "5300860",
+      "name": "预算",
+      "font_class": "yusuan",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "12415983",
+      "name": "公文系统",
+      "font_class": "ic-normal-gongwenxitong",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    },
+    {
+      "icon_id": "12655007",
+      "name": "epc",
+      "font_class": "epc",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "13065696",
+      "name": "消 息",
+      "font_class": "xiaoxi2",
+      "unicode": "fe63",
+      "unicode_decimal": 65123
+    },
+    {
+      "icon_id": "13431156",
+      "name": "应用管理 ",
+      "font_class": "yingyongguanli",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "14083287",
+      "name": "公告",
+      "font_class": "page-gonggao",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "15216978",
+      "name": "消 息",
+      "font_class": "xiaoxi2-copy",
+      "unicode": "fe65",
+      "unicode_decimal": 65125
+    }
+  ]
+}
